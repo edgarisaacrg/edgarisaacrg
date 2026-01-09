@@ -39,18 +39,14 @@
 
 > *"Hard work beats talent when talent doesn't work hard."*
 
-👾 **Gamertag:** `Issacram33`
+**Gamertag:** `Issacram33`
 
 **🏆 Platinum Trophy Collection:**
-* ⚔️ **Sekiro: Shadows Die Twice** (My proudest achievement)
-* 💍 **Elden Ring**
-* 🪓 **God of War Ragnarök**
+* **Sekiro: Shadows Die Twice** (My proudest achievement)
+* **Elden Ring**
+* **God of War Ragnarök**
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarisaacrg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-</div>
 
 <div align="center">
   <h3>Let's Connect!</h3>
