@@ -1,4 +1,8 @@
 ## Hola mi nombre es Edgar Ramos 👋
+## Estudie Ingenieria en Ciencias de la computacion en
+## Centro Universitario de Tonala
+## Universidad de Guadalajara
+
 
 <!--
 **edgarisaacrg/edgarisaacrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
