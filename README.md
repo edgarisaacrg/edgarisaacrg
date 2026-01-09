@@ -46,7 +46,7 @@
   <a href="https://open.spotify.com/user/Issacram">
     <img src="https://img.shields.io/badge/Spotify-Edgar's_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/TU_USUARIO_SPOTIFY">
+  <a href="https://open.spotify.com/user/Issacram">
     <img src="https://img.shields.io/badge/Vibe-Coding_Mode_ON-blueviolet?style=for-the-badge" />
   </a>
 </div>
