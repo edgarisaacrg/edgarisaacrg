@@ -30,7 +30,7 @@
 
 **Tools I've worked with (University & Projects):**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,flask,cpp,cs,git,github&theme=dark" />
 </div>
 
 ---
@@ -41,6 +41,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+---
+
+### 🎮 AFK (Away From Keyboard)
+
+> *"No solo escribo código, también supero desafíos imposibles."*
+
+| 🏆 **Platinum Hunter** | **Gamertag** |
+|:---:|:---:|
+| Orgulloso superviviente de las Tierras Intermedias y Ashina.<br><br> **Sekiro: Shadows Die Twice** (Platinum)<br> **Elden Ring** (Platinum)<br>
+**God of War Ragnarök** (Platinum) | Encuéntrame en línea como:<br><br>**Issacram33**<br><br> |
 
 <div align="center">
   <a href="https://open.spotify.com/user/Issacram">
