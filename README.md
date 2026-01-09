@@ -1,7 +1,7 @@
 ## Hola mi nombre es Edgar Ramos 👋
-<hi> Estudie Ingenieria en Ciencias de la computacion en </hi>
-<hi> Centro Universitario de Tonala </hi>
-<hi> Universidad de Guadalajara </hi>
+<h1> Estudie Ingenieria en Ciencias de la computacion en </h1>
+<h1> Centro Universitario de Tonala </h1>
+<h1> Universidad de Guadalajara </h1>
 
 
 <!--
