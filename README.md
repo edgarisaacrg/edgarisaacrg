@@ -36,10 +36,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarisaacrg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-</div>
-
-<div align="center">
   <h3>Let's Connect!</h3>
   <a href="https://linkedin.com/in/tu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
