@@ -1,20 +1,47 @@
-## Hola mi nombre es Edgar Ramos 👋
-<h1> Estudie Ingenieria en Ciencias de la computacion en </h1>
-<h1> Centro Universitario de Tonala </h1>
-<h1> Universidad de Guadalajara </h1>
+<div align="center">
+  <h1 align="center">Hi there, I'm Edgar Ramos 👋</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF57&background=00000000&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Frontend+Developer;Always+Learning" alt="Typing SVG" />
+</div>
 
+---
 
-<!--
-**edgarisaacrg/edgarisaacrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
 
-Here are some ideas to get you started:
+**Computer Science Engineering** *Universidad de Guadalajara - Centro Universitario de Tonalá (CUTonalá)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔭 **I’m currently working on:** Building my personal portfolio and refining my coding skills.
+- 🌱 **I’m currently learning:** Deep diving into **JavaScript & React**.
+- 👯 **I’m looking to collaborate on:** Open source projects or web development challenges.
+- ⚡ **Fun fact:** I can center a `div` without Googling it (sometimes).
+
+---
+
+### 🛠️ My Tech Stack
+
+**Current Focus:**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" />
+</div>
+
+**Tools I've worked with (University & Projects):**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,git,github&theme=dark" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgarisaacrg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+</div>
+
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
